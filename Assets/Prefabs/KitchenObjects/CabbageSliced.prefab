@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5067854593069941051}
   - component: {fileID: 7977732130947017078}
   m_Layer: 0
-  m_Name: CabbageSlices
+  m_Name: CabbageSliced
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -113,6 +113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CabbageSliced_Visual
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812876574508226177, guid: 44b7e90f95929c04c8394768d8bd1d14,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
